@@ -4,7 +4,7 @@
 
 <h2>Github stats & BOJ</h2>
 
-![c1oud-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=c1oud-dev&show_icons=true&theme=dark)    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gksmf4165)](https://solved.ac/gksmf4165)
+![c1oud-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=c1oud-dev&show_icons=true&theme=dark)    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksmf4165)](https://solved.ac/gksmf4165/)
 
 <h2>Skills</h2>
 
