@@ -1,14 +1,25 @@
-### <h1>😄Kim Ha Neul😄</h1>
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!&fontSize=40&fontAlign=85)
+<br/>
+<h2>☁️Kim Ha Neul☁️</h2>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fc1oud-dev&count_bg=%235BB815&title_bg=%234EB6E2&icon=&icon_color=%23A6A6A6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<br/>
+<br/>
 <h2>Blog</h2>
 
 ### [Tistory](https://dev-cloud.tistory.com/)
 
-<h2>Github stats & BOJ</h2>
+<h3>My Github stats</h3>
 
-![c1oud-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=c1oud-dev&show_icons=true&theme=dark)    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksmf4165)](https://solved.ac/gksmf4165/)
+![c1oud-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=c1oud-dev&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
+
+<h3>Solved.ac</h3>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksmf4165)](https://solved.ac/gksmf4165/)
+
+<!-- ![c1oud-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=c1oud-dev&show_icons=true&theme=dark)    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksmf4165)](https://solved.ac/gksmf4165/)-->
 
 <h2>Skills</h2>
 
@@ -18,3 +29,5 @@
 <h2>Laguages</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c1oud-dev&layout=compact&theme=dark)
+
+</div>
