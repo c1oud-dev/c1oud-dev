@@ -2,6 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!&fontSize=40&fontAlign=85)
 <br/>
+<!--<img width="100%" src="https://user-images.githubusercontent.com/80378085/150538122-d0c8472f-4b8c-4544-a35c-27c398234308.gif"/>-->
 <h2>☁️Kim Ha Neul☁️</h2>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fc1oud-dev&count_bg=%235BB815&title_bg=%234EB6E2&icon=&icon_color=%23A6A6A6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
