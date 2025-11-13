@@ -1,0 +1,34 @@
+<svg width="1000" height="280" viewBox="0 0 1000 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kim Ha Neul GitHub profile banner</title>
+  <desc id="desc">Gradient skyline banner with name and keywords</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0E4B78" />
+      <stop offset="50%" stop-color="#2968B0" />
+      <stop offset="100%" stop-color="#5BB815" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#A4D7FF" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#E0FFB4" stop-opacity="0.4" />
+    </linearGradient>
+    <clipPath id="waveClip">
+      <path d="M0 0H1000V200C900 230 780 250 650 240C500 228 350 182 220 198C140 208 80 248 0 270V0Z" />
+    </clipPath>
+  </defs>
+  <rect width="1000" height="280" rx="24" fill="url(#bg)" />
+  <g clip-path="url(#waveClip)">
+    <rect width="1000" height="280" fill="url(#glow)" opacity="0.65" />
+    <circle cx="860" cy="60" r="48" fill="rgba(255,255,255,0.15)" />
+    <circle cx="220" cy="40" r="32" fill="rgba(255,255,255,0.1)" />
+    <circle cx="120" cy="190" r="48" fill="rgba(255,255,255,0.12)" />
+    <circle cx="760" cy="190" r="52" fill="rgba(255,255,255,0.09)" />
+  </g>
+  <text x="80" y="140" font-family="'Fira Sans', 'Pretendard', 'Noto Sans KR', sans-serif" font-size="60" font-weight="700" fill="#FFFFFF">Kim Ha Neul</text>
+  <text x="80" y="188" font-family="'Fira Sans', 'Pretendard', 'Noto Sans KR', sans-serif" font-size="26" font-weight="500" fill="#E8F9FF">Back-end Developer · DevOps Enthusiast</text>
+  <g font-family="'Fira Sans', 'Pretendard', 'Noto Sans KR', sans-serif" font-size="18" fill="#F3FEE4" font-weight="400">
+    <text x="80" y="222">Domain-Driven Design</text>
+    <text x="360" y="222">Continuous Delivery</text>
+    <text x="640" y="222">User-centric Experiments</text>
+  </g>
+  <path d="M0 210C104 210 162 224 260 224C404 224 468 196 620 196C780 196 852 226 1000 226" stroke="rgba(255,255,255,0.25)" stroke-width="4" stroke-linecap="round" />
+</svg>
