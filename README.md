@@ -1,7 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=Kim%20Ha%20Neul&fontSize=42&fontAlign=70&fontColor=FFFFFF&color=0:4EB6E2,100:5BB815)
-
+  <img src="./assets/header.svg" alt="Kim Ha Neul banner" width="100%" />
 </div>
 
 ## 👋 About Me
