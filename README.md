@@ -29,7 +29,6 @@
 | --- | --- | --- |
 | **[Green Coach](https://github.com/c1oud-dev/Green_Coach)** | Kotlin · Android · Firebase | 쓰레기 분리수거 가이드를 제공하는 모바일 앱. MVVM 아키텍처로 설계하고, 실시간 데이터 동기화를 위해 Firebase를 적용했습니다. UI/UX 개선과 테스트 사용자 피드백을 기반으로 기능을 다듬었습니다. |
 | **[Booktine](https://github.com/c1oud-dev/Booktine)** | TypeScript · Next.js · Zustand | 독서 습관을 관리하는 웹 서비스. 독서 플래너, 통계 시각화, 반응형 디자인을 구현하고 Vercel을 통해 배포했습니다. 코드 스플리팅과 API 최적화로 초기 로딩 속도를 개선했습니다. |
-| **[JPA Application](https://github.com/c1oud-dev/JPA_Application)** | Java · Spring Boot · JPA · MySQL | 도메인 주도 설계 아이디어를 적용한 REST API 서버. 계층형 구조, 예외 처리, 테스트 코드를 강화하고 Docker-Compose로 로컬 개발 환경을 표준화했습니다. |
 
 > 더 많은 프로젝트와 회고는 [GitHub Repositories](https://github.com/c1oud-dev?tab=repositories)와 [기술 블로그](https://dev-cloud.tistory.com/)에서 확인하실 수 있습니다.
 
