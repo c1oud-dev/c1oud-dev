@@ -76,7 +76,6 @@
 ## 📝 Learning & Writing
 
 * 기술 블로그: [dev-cloud.tistory.com](https://dev-cloud.tistory.com/) – 프로젝트 회고, 에러 핸들링, 아키텍처 고민을 기록합니다.
-* Solved.ac: [gksmf4165](https://solved.ac/profile/gksmf4165) – 꾸준한 알고리즘 문제 해결로 사고력을 확장하고 있습니다.
 
 <br>
 
