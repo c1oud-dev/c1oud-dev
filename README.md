@@ -2,12 +2,12 @@
   <img src="./assets/header.svg" alt="Kim Ha Neul banner" width="100%" />
 
 <br>
+
 Spring Boot · JPA 기반의 백엔드 개발을 주로 합니다. 기능 구현에서 끝내지 않고, 왜 문제가 생겼는지 원인을 파악하고 기록하는 걸 중요하게 생각합니다. 테스트, 문서화, 트러블슈팅 회고를 습관처럼 챙깁니다.
 
 <br>
 
 [![Blog](https://img.shields.io/badge/Blog-dev--cloud.tistory.com-20C997?style=flat-square&logo=tistory&logoColor=white)](https://dev-cloud.tistory.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-c1oud--dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/c1oud-dev)
 
 </div>
 
@@ -41,36 +41,19 @@ Spring Boot · JPA 기반의 백엔드 개발을 주로 합니다. 기능 구현
 
 <br>
 
-
-
-## 👥 Team Projects
-
-### 🎯 합격시그널 — 취업 준비생 커뮤니티 플랫폼
-
-> 프로그래머스 데브코스 6인 팀 프로젝트 · 2주 · [GitHub](https://github.com/prgrms-be-devcourse/NBE9-11-2-Team01)
-
-취준생이 정보를 공유하고 소통할 수 있는 커뮤니티 서비스입니다.<br>
-JWT + HttpOnly Cookie 기반 인증, Redis 캐싱으로 인기글 Top5 제공, SSE 실시간 댓글 알림을 구현했습니다.
-
-**Stack** `Spring Boot` `Spring Security` `JPA` `QueryDSL` `Redis` `JWT` `Next.js` `TypeScript` `Docker`
-
-<br>
-
-### 🌱 Green Coach — AI 기반 분리수거 가이드 앱
-
-> 2인 팀 프로젝트 · 4개월 · [GitHub](https://github.com/c1oud-dev/Green_Coach)
-
-쓰레기를 촬영하면 AI가 자동으로 분류하고 올바른 배출 방법을 안내하는 Android 앱입니다.<br>
-분리배출 횟수에 따라 성장하는 나만의 숲, 커뮤니티 기능, 실시간 환경 뉴스를 제공합니다.
-
-**Stack** `Kotlin` `Android` `Jetpack Compose` `Spring Boot` `JWT` `MySQL`
-
-<br>
-
-
 ## 🙋 Personal Projects
 
-### 🤖 MoMatic — AI 기반 회의록 자동화 플랫폼
+### Booktine — 독서 습관 관리 서비스
+
+> 개인 프로젝트 · [GitHub](https://github.com/c1oud-dev/Booktine) · [booktine.cloud](https://booktine.cloud)
+
+독서 기록, 목표, 통계, 도서 추천, 커뮤니티를 한 곳에서 관리하는 서비스입니다. JWT + Redis 기반 인증, Aladin API 연동 도서 추천, SSE 실시간 리마인더 알림을 구현했습니다.
+
+**Stack** `Java` `Spring Boot` `Spring Security` `JPA` `MySQL` `Redis` `React` `TypeScript` `AWS` `Docker`
+
+<br>
+
+### MoMatic — AI 기반 회의록 자동화 플랫폼
 
 > 개인 프로젝트 · [GitHub](https://github.com/c1oud-dev/MoMatic)
 
@@ -80,14 +63,26 @@ JWT + HttpOnly Cookie 기반 인증, Redis 캐싱으로 인기글 Top5 제공, S
 
 <br>
 
-### 📚 Booktine — 독서 습관 관리 서비스
 
-> 개인 프로젝트 · [GitHub](https://github.com/c1oud-dev/Booktine) · [booktine.cloud](https://booktine.cloud)
+## 👥 Team Projects
 
-독서 기록, 목표, 통계, 도서 추천, 커뮤니티를 한 곳에서 관리하는 서비스입니다.<br>
-JWT + Redis 기반 인증, Aladin API 연동 도서 추천, SSE 실시간 리마인더 알림을 구현했습니다.
+### 합격시그널 — 취업 준비생 커뮤니티 플랫폼
 
-**Stack** `Java` `Spring Boot` `Spring Security` `JPA` `MySQL` `Redis` `React` `TypeScript` `AWS` `Docker`
+> 프로그래머스 데브코스 6인 팀 프로젝트 · 2주 · [GitHub](https://github.com/prgrms-be-devcourse/NBE9-11-2-Team01)
+
+취준생이 정보를 공유하고 소통할 수 있는 커뮤니티 서비스입니다. JWT + HttpOnly Cookie 기반 인증, Redis 캐싱으로 인기글 Top5 제공, SSE 실시간 댓글 알림을 구현했습니다.
+
+**Stack** `Spring Boot` `Spring Security` `JPA` `QueryDSL` `Redis` `JWT` `Next.js` `TypeScript` `Docker`
+
+<br>
+
+### Green Coach — AI 기반 분리수거 가이드 앱
+
+> 2인 팀 프로젝트 · 4개월 · [GitHub](https://github.com/c1oud-dev/Green_Coach)
+
+쓰레기를 촬영하면 AI가 자동으로 분류하고 올바른 배출 방법을 안내하는 Android 앱입니다. 분리배출 횟수에 따라 성장하는 나만의 숲, 커뮤니티 기능, 실시간 환경 뉴스를 제공합니다.
+
+**Stack** `Kotlin` `Android` `Jetpack Compose` `Spring Boot` `JWT` `MySQL`
 
 <br>
 
