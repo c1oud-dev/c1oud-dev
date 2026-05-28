@@ -1,92 +1,112 @@
 <div align="center">
-  
   <img src="./assets/header.svg" alt="Kim Ha Neul banner" width="100%" />
+
+<br>
+Spring Boot · JPA 기반의 백엔드 개발을 주로 합니다. 기능 구현에서 끝내지 않고, 왜 문제가 생겼는지 원인을 파악하고 기록하는 걸 중요하게 생각합니다. 테스트, 문서화, 트러블슈팅 회고를 습관처럼 챙깁니다.
+
+<br>
+
+[![Blog](https://img.shields.io/badge/Blog-dev--cloud.tistory.com-20C997?style=flat-square&logo=tistory&logoColor=white)](https://dev-cloud.tistory.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-c1oud--dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/c1oud-dev)
+
 </div>
 
-## 👋 About Me
-
-안녕하세요, 사용자 가치에 집중하는 백엔드 개발자 **김하늘**입니다.
-탄탄한 서버 아키텍처와 데이터 품질을 바탕으로 "문제를 명확히 정의하고 해결책을 실행으로 연결하는 개발자"가 되기 위해 꾸준히 성장하고 있습니다.
-
-- **Spring Boot · JPA** 중심의 서비스 개발과 API 디자인 경험
-- **Android(Kotlin), TypeScript**를 활용한 풀스택 협업 경험으로 프런트엔드와의 소통에 강점
-- **AWS, Docker** 인프라 운영과 모니터링 자동화로 실서비스 품질 개선 실험
-
-> 목표는 "사용자가 신뢰할 수 있는 서비스를 안정적으로 제공"하는 것입니다. 이를 위해 테스트, 문서화, 모니터링을 습관화하고 있습니다.
-
 <br>
 
-## 🌟 What I'm Focusing On
-
-- 데이터 무결성과 성능을 고려한 **도메인 모델 설계**
-- **테스트 코드와 자동화 파이프라인**을 통한 반복 가능한 개발 환경 구축
-
-<br>
-
-## 💼 Spotlight Projects
-
-| Project | Stack & 역할 | Highlights |
-| --- | --- | --- |
-| **[Green Coach](https://github.com/c1oud-dev/Green_Coach)** | Kotlin · Android · Firebase | 쓰레기 분리수거 가이드를 제공하는 모바일 앱. MVVM 아키텍처로 설계하고, 실시간 데이터 동기화를 위해 Firebase를 적용했습니다. UI/UX 개선과 테스트 사용자 피드백을 기반으로 기능을 다듬었습니다. |
-| **[Booktine](https://github.com/c1oud-dev/Booktine)** | TypeScript · Next.js · Zustand | 독서 습관을 관리하는 웹 서비스. 독서 플래너, 통계 시각화, 반응형 디자인을 구현하고 Vercel을 통해 배포했습니다. 코드 스플리팅과 API 최적화로 초기 로딩 속도를 개선했습니다. |
-
-> 더 많은 프로젝트와 회고는 [GitHub Repositories](https://github.com/c1oud-dev?tab=repositories)와 [기술 블로그](https://dev-cloud.tistory.com/)에서 확인하실 수 있습니다.
-
-<br>
 
 ## 🛠 Tech Stack
 
-### Core
+**Backend**
 
-<div align="center">
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-005999?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C.svg?&style=for-the-badge&logo=Hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+**Frontend & Mobile**
 
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Familiar
+**DevOps & Infra**
 
-<div align="center">
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
-
-### DevOps & Tooling
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <br>
 
-## 📝 Learning & Writing
 
-* 기술 블로그: [dev-cloud.tistory.com](https://dev-cloud.tistory.com/) – 프로젝트 회고, 에러 핸들링, 아키텍처 고민을 기록합니다.
+
+## 👥 Team Projects
+
+### 🎯 합격시그널 — 취업 준비생 커뮤니티 플랫폼
+
+> 프로그래머스 데브코스 6인 팀 프로젝트 · 2주 · [GitHub](https://github.com/prgrms-be-devcourse/NBE9-11-2-Team01)
+
+취준생이 정보를 공유하고 소통할 수 있는 커뮤니티 서비스입니다.<br>
+JWT + HttpOnly Cookie 기반 인증, Redis 캐싱으로 인기글 Top5 제공, SSE 실시간 댓글 알림을 구현했습니다.
+
+**Stack** `Spring Boot` `Spring Security` `JPA` `QueryDSL` `Redis` `JWT` `Next.js` `TypeScript` `Docker`
 
 <br>
+
+### 🌱 Green Coach — AI 기반 분리수거 가이드 앱
+
+> 2인 팀 프로젝트 · 4개월 · [GitHub](https://github.com/c1oud-dev/Green_Coach)
+
+쓰레기를 촬영하면 AI가 자동으로 분류하고 올바른 배출 방법을 안내하는 Android 앱입니다.<br>
+분리배출 횟수에 따라 성장하는 나만의 숲, 커뮤니티 기능, 실시간 환경 뉴스를 제공합니다.
+
+**Stack** `Kotlin` `Android` `Jetpack Compose` `Spring Boot` `JWT` `MySQL`
+
+<br>
+
+
+## 🙋 Personal Projects
+
+### 🤖 MoMatic — AI 기반 회의록 자동화 플랫폼
+
+> 개인 프로젝트 · [GitHub](https://github.com/c1oud-dev/MoMatic)
+
+회의 음성 파일을 업로드하면 AI가 자동으로 전사 · 요약 · 액션아이템 추출까지 처리하고, Google Calendar 일정 등록까지 자동화하는 서비스입니다.
+
+**Stack** `Java` `Spring Boot` `Spring Security` `JPA` `QueryDSL` `MySQL` `Thymeleaf` `OpenAI API` `Google Calendar API` `Docker` `AWS`
+
+<br>
+
+### 📚 Booktine — 독서 습관 관리 서비스
+
+> 개인 프로젝트 · [GitHub](https://github.com/c1oud-dev/Booktine) · [booktine.cloud](https://booktine.cloud)
+
+독서 기록, 목표, 통계, 도서 추천, 커뮤니티를 한 곳에서 관리하는 서비스입니다.<br>
+JWT + Redis 기반 인증, Aladin API 연동 도서 추천, SSE 실시간 리마인더 알림을 구현했습니다.
+
+**Stack** `Java` `Spring Boot` `Spring Security` `JPA` `MySQL` `Redis` `React` `TypeScript` `AWS` `Docker`
+
+<br>
+
 
 ## 📊 Activity
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=c1oud-dev&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=c1oud-dev&theme=vue&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c1oud-dev&amp;layout=compact&amp;theme=vue&amp;hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksmf4165)](https://solved.ac/gksmf4165/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c1oud-dev&layout=compact&theme=dark)
 
 </div>
