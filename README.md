@@ -68,7 +68,7 @@ Spring Boot · JPA 기반의 백엔드 개발을 합니다. 기능 구현에서 
 
 ### SeedLink — 신뢰 기반 크라우드펀딩 플랫폼
 
-> 프로그래머스 데브코스 백엔드 9기 5인 팀 프로젝트 · 4주 · [GitHub](https://github.com/prgrms-be-devcourse/BE-04-SeedLink) · [http://seedlink.site](http://seedlink.site)
+> 프로그래머스 데브코스 백엔드 9기 5인 팀 프로젝트 · 4주 · [GitHub](https://github.com/prgrms-be-devcourse/BE-04-SeedLink) · [https://seedlink.site](https://seedlink.site)
 
 아이디어 제안자, 전문가, 스폰서를 연결하는 신뢰 기반 크라우드펀딩 플랫폼입니다. AI 1차 검증(금지어 필터링 + OpenAI) → 전문가 2차 검토 → 관리자 최종 승인의 다단계 검증 구조로 사기성 아이디어를 사전 차단하고, 마일스톤 기반 에스크로 정산과 보증금 선납 정책으로 후원자를 보호합니다. 아이디어·검증 도메인 및 인프라·배포를 담당했습니다.
 
