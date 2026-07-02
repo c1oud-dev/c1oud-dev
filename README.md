@@ -74,6 +74,8 @@ Spring Boot · JPA 기반의 백엔드 개발을 합니다. 기능 구현에서 
 
 **Stack** `Java 25` `Spring Boot 4.x` `JPA` `QueryDSL` `MySQL` `Redis` `Next.js` `OpenAI API` `Toss Payments` `AWS EC2/S3` `Docker` `GitHub Actions` `Nginx`
 
+<br>
+
 ### 합격시그널 — 취업 준비생 커뮤니티 플랫폼
 
 > 프로그래머스 데브코스 6인 팀 프로젝트 · 2주 · [GitHub](https://github.com/prgrms-be-devcourse/NBE9-11-2-Team01)
