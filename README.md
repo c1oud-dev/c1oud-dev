@@ -78,7 +78,7 @@ Spring Boot · JPA 기반의 백엔드 개발을 합니다. 기능 구현에서 
 
 ### 합격시그널 — 취업 준비생 커뮤니티 플랫폼
 
-> 프로그래머스 데브코스 6인 팀 프로젝트 · 2주 · [GitHub](https://github.com/prgrms-be-devcourse/NBE9-11-2-Team01)
+> 프로그래머스 데브코스 백엔드 9기 6인 팀 프로젝트 · 2주 · [GitHub](https://github.com/prgrms-be-devcourse/NBE9-11-2-Team01)
 
 취준생이 정보를 공유하고 소통할 수 있는 커뮤니티 서비스입니다. JWT + HttpOnly Cookie 기반 인증, Redis 캐싱으로 인기글 Top5 제공, SSE 실시간 댓글 알림을 구현했습니다.
 
