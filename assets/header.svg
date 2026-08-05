@@ -1,14 +1,17 @@
 <svg
-  width="760"
-  height="150"
-  viewBox="0 0 760 150"
+  width="1000"
+  height="180"
+  viewBox="0 0 1000 180"
   fill="none"
   xmlns="http://www.w3.org/2000/svg"
   role="img"
   aria-labelledby="title desc"
+  preserveAspectRatio="xMinYMid meet"
 >
   <title id="title">Kim Ha Neul GitHub profile header</title>
-  <desc id="desc">Minimal profile header with name and keywords</desc>
+  <desc id="desc">
+    Minimal GitHub profile header with name, backend developer title, and keywords
+  </desc>
 
   <style>
     .accent {
@@ -17,19 +20,14 @@
 
     .name {
       fill: #171717;
-      font: 700 42px 'Fira Sans', 'Pretendard', sans-serif;
     }
 
     .subtitle {
       fill: #315A7D;
-      font: 400 17px 'Fira Sans', 'Pretendard', sans-serif;
-      letter-spacing: 0.3px;
     }
 
     .keywords {
-      fill: #3F5F78;
-      font: 400 14px 'Fira Sans', 'Pretendard', sans-serif;
-      letter-spacing: 0.8px;
+      fill: #334E68;
     }
 
     @media (prefers-color-scheme: dark) {
@@ -46,7 +44,7 @@
       }
 
       .keywords {
-        fill: #9AC9E8;
+        fill: #A8CCE5;
       }
     }
   </style>
@@ -54,25 +52,48 @@
   <!-- 왼쪽 포인트 선 -->
   <rect
     class="accent"
-    x="20"
-    y="27"
-    width="3"
-    height="100"
-    rx="1.5"
+    x="18"
+    y="35"
+    width="4"
+    height="110"
+    rx="2"
   />
 
   <!-- 이름 -->
-  <text class="name" x="40" y="68">
+  <text
+    class="name"
+    x="42"
+    y="76"
+    font-family="'Fira Sans', 'Pretendard', Arial, sans-serif"
+    font-size="48"
+    font-weight="700"
+  >
     Kim Ha Neul
   </text>
 
-  <!-- 서브타이틀 -->
-  <text class="subtitle" x="41" y="98">
+  <!-- 직무 및 기술 -->
+  <text
+    class="subtitle"
+    x="43"
+    y="111"
+    font-family="'Fira Sans', 'Pretendard', Arial, sans-serif"
+    font-size="19"
+    font-weight="400"
+    letter-spacing="0.4"
+  >
     Back-end Developer · Spring Boot · JPA
   </text>
 
-  <!-- 키워드 -->
-  <text class="keywords" x="41" y="123">
+  <!-- 개발 키워드 -->
+  <text
+    class="keywords"
+    x="43"
+    y="139"
+    font-family="'Fira Sans', 'Pretendard', Arial, sans-serif"
+    font-size="15"
+    font-weight="400"
+    letter-spacing="1"
+  >
     Problem Solving · Clean Code · Continuous Learning
   </text>
 </svg>
