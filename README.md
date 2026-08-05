@@ -1,15 +1,17 @@
 <div align="center">
   <img src="./assets/header.svg" alt="Kim Ha Neul banner" width="100%" />
-
+</div>
 <br>
 
-Spring Boot · JPA 기반의 백엔드 개발을 합니다. 기능 구현에서 끝내지 않고, 왜 문제가 생겼는지 원인을 파악하고 기록하는 걸 중요하게 생각합니다. 테스트, 문서화, 트러블슈팅 회고를 습관처럼 챙깁니다.
+Java와 Spring Boot를 중심으로 백엔드 서비스를 개발하며, 인증·인가, 데이터 조회 최적화, 외부 API 연동, 비동기 처리와 배포 환경 구축을 경험했습니다.
+
+기능 구현에 그치지 않고 성능, 비용, 운영 환경을 함께 고려하며, 문제를 해결할 때는 원인과 영향 범위, 해결책의 한계와 트레이드오프까지 분석합니다. 작업 단위를 작게 나누어 꾸준히 커밋하고, 코드 리뷰와 리팩토링을 통해 품질을 개선하며, 주요 기술적 의사결정과 트러블슈팅은 GitHub와 블로그에 기록합니다.
+
+팀이 안심하고 업무를 맡길 수 있으며, 서비스의 목적과 사용자 가치를 이해해 적절한 기술적 선택을 제안하는 개발자를 지향합니다.
 
 <br>
 
 [![Blog](https://img.shields.io/badge/Blog-dev--cloud.tistory.com-20C997?style=flat-square&logo=tistory&logoColor=white)](https://dev-cloud.tistory.com/)
-
-</div>
 
 <br>
 
