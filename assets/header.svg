@@ -1,24 +1,78 @@
-<svg width="1000" height="200" viewBox="0 0 1000 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg
+  width="1000"
+  height="200"
+  viewBox="0 0 1000 200"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-labelledby="title desc"
+>
   <title id="title">Kim Ha Neul GitHub profile banner</title>
-  <desc id="desc">Minimal gradient banner with name and keywords</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1A3A5C" />
-      <stop offset="50%" stop-color="#1E5FA0" />
-      <stop offset="100%" stop-color="#2E8FD8" />
-    </linearGradient>
-  </defs>
-  <rect width="1000" height="200" rx="16" fill="url(#bg)" />
+  <desc id="desc">Minimal banner with name and keywords</desc>
 
-  <!-- 왼쪽 얇은 강조선 -->
-  <rect x="60" y="50" width="4" height="100" rx="2" fill="#C8E8FF" opacity="0.9" />
+  <style>
+    .accent {
+      fill: #1E5FA0;
+    }
+
+    .name {
+      fill: #1A1A1A;
+      font: 700 52px 'Fira Sans', 'Pretendard', sans-serif;
+    }
+
+    .subtitle {
+      fill: #355C7D;
+      font: 400 20px 'Fira Sans', 'Pretendard', sans-serif;
+      letter-spacing: 0.5px;
+    }
+
+    .keywords {
+      fill: #3F5F78;
+      font: 400 15px 'Fira Sans', 'Pretendard', sans-serif;
+      letter-spacing: 1.2px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .accent {
+        fill: #7CC7FF;
+      }
+
+      .name {
+        fill: #F5FAFF;
+      }
+
+      .subtitle {
+        fill: #B9DFFF;
+      }
+
+      .keywords {
+        fill: #8FC4E8;
+      }
+    }
+  </style>
+
+  <!-- 왼쪽 포인트 선 -->
+  <rect
+    class="accent"
+    x="68"
+    y="58"
+    width="4"
+    height="114"
+    rx="2"
+  />
 
   <!-- 이름 -->
-  <text x="84" y="105" font-family="'Fira Sans', 'Pretendard', sans-serif" font-size="52" font-weight="700" fill="#FFFFFF">Kim Ha Neul</text>
+  <text class="name" x="92" y="105">
+    Kim Ha Neul
+  </text>
 
   <!-- 서브타이틀 -->
-  <text x="86" y="140" font-family="'Fira Sans', 'Pretendard', sans-serif" font-size="20" font-weight="400" fill="#C8E8FF" letter-spacing="1">Back-end Developer · Spring Boot · JPA</text>
+  <text class="subtitle" x="92" y="140">
+    Back-end Developer · Spring Boot · JPA
+  </text>
 
   <!-- 키워드 -->
-  <text x="86" y="168" font-family="'Fira Sans', 'Pretendard', sans-serif" font-size="15" font-weight="300" fill="#A0D0F0" letter-spacing="2">Problem Solving · Clean Code · Continuous Learning</text>
+  <text class="keywords" x="92" y="168">
+    Problem Solving · Clean Code · Continuous Learning
+  </text>
 </svg>
