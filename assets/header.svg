@@ -1,14 +1,14 @@
 <svg
-  width="1000"
-  height="200"
-  viewBox="0 0 1000 200"
+  width="760"
+  height="150"
+  viewBox="0 0 760 150"
   fill="none"
   xmlns="http://www.w3.org/2000/svg"
   role="img"
   aria-labelledby="title desc"
 >
-  <title id="title">Kim Ha Neul GitHub profile banner</title>
-  <desc id="desc">Minimal banner with name and keywords</desc>
+  <title id="title">Kim Ha Neul GitHub profile header</title>
+  <desc id="desc">Minimal profile header with name and keywords</desc>
 
   <style>
     .accent {
@@ -16,29 +16,29 @@
     }
 
     .name {
-      fill: #1A1A1A;
-      font: 700 52px 'Fira Sans', 'Pretendard', sans-serif;
+      fill: #171717;
+      font: 700 42px 'Fira Sans', 'Pretendard', sans-serif;
     }
 
     .subtitle {
-      fill: #355C7D;
-      font: 400 20px 'Fira Sans', 'Pretendard', sans-serif;
-      letter-spacing: 0.5px;
+      fill: #315A7D;
+      font: 400 17px 'Fira Sans', 'Pretendard', sans-serif;
+      letter-spacing: 0.3px;
     }
 
     .keywords {
       fill: #3F5F78;
-      font: 400 15px 'Fira Sans', 'Pretendard', sans-serif;
-      letter-spacing: 1.2px;
+      font: 400 14px 'Fira Sans', 'Pretendard', sans-serif;
+      letter-spacing: 0.8px;
     }
 
     @media (prefers-color-scheme: dark) {
       .accent {
-        fill: #7CC7FF;
+        fill: #79C5FF;
       }
 
       .name {
-        fill: #F5FAFF;
+        fill: #F5F7FA;
       }
 
       .subtitle {
@@ -46,7 +46,7 @@
       }
 
       .keywords {
-        fill: #8FC4E8;
+        fill: #9AC9E8;
       }
     }
   </style>
@@ -54,25 +54,25 @@
   <!-- 왼쪽 포인트 선 -->
   <rect
     class="accent"
-    x="68"
-    y="58"
-    width="4"
-    height="114"
-    rx="2"
+    x="20"
+    y="27"
+    width="3"
+    height="100"
+    rx="1.5"
   />
 
   <!-- 이름 -->
-  <text class="name" x="92" y="105">
+  <text class="name" x="40" y="68">
     Kim Ha Neul
   </text>
 
   <!-- 서브타이틀 -->
-  <text class="subtitle" x="92" y="140">
+  <text class="subtitle" x="41" y="98">
     Back-end Developer · Spring Boot · JPA
   </text>
 
   <!-- 키워드 -->
-  <text class="keywords" x="92" y="168">
+  <text class="keywords" x="41" y="123">
     Problem Solving · Clean Code · Continuous Learning
   </text>
 </svg>
