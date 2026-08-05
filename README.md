@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img src="./assets/header.svg" alt="Kim Ha Neul banner" width="100%" />
 </div>
 <br>
